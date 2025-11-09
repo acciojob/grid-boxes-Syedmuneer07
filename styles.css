@@ -11,7 +11,7 @@ body {
   display: grid;
   grid-template-columns: 242.5px 242.5px 242.5px 242.5px;
   grid-template-rows: 124px 124px 124px 124px 124px;
-  gap: 5px;
+  gap: 10px 10px;
   height: 100vh;
   background: white;
   padding: 5px;
